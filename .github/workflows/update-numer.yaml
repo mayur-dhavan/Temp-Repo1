@@ -2,7 +2,7 @@ name: Update Number
 
 on:
   schedule:
-    # Runs every day at 12:00 PM UTC (5:30 PM IST)
+    # Runs every day at 06:51 AM UTC (5:30 PM IST)
     - cron: '0 12 * * *'
   workflow_dispatch:
 
